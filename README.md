@@ -1,7 +1,7 @@
-XP3Player for AI project by Tuba Khan and Nisha
+XP3Player for AI project by Tuba Khan 
 --- 
  You can also download the app for the desktop, by clicking on this link below
-<h3 align="center" > XR3Player ( <a href="https://xr3player.netlify.com/" target="_blank">Download</a>  )</h3>
+<h3 align="center" > Player ( <a href="https://xr3player.netlify.com/" target="_blank">Download</a>  )</h3>
 <p align="center">
 <img src="https://cloud.githubusercontent.com/assets/20374208/26214265/6b605cae-3c04-11e7-9c14-2cd59e10dd03.png">
 </p>       
